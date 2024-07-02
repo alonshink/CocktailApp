@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CocktailApp</string>
+    <string name="cocktail_image_desc">Cocktail Image</string>
+    <string name="info_icon_desc">Info Icon</string>
+    <string name="favorite_icon_desc">Favorite Icon</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Favorites</string>
+    <string name="title_notifications">Search</string>
+</resources>
